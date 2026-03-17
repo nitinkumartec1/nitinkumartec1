@@ -70,11 +70,11 @@
 
 <p align="center">
 
-<a href="https://leetcode.com/[yourusername](https://leetcode.com/u/Q82NyKflAw/)">
+<a href="https://leetcode.com/nitinkumartec1/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/user/[yourusername](https://www.geeksforgeeks.org/profile/nitinkum94qe)">
+<a href="https://www.geeksforgeeks.org/user/nitinkum94qe">
 <img src="https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
@@ -82,55 +82,11 @@
 
 ---
 
-## 🚀 Projects
+## 🧠 LeetCode Stats
 
-### 🔹 Full-Stack Blog Platform
-- Built using **React, Redux Toolkit, Appwrite, Tailwind CSS**
-- Implemented **Authentication & Role-Based Access Control (RBAC)**
-- Integrated **Realtime Database Updates**
-- Optimized API calls → improved performance by ~25%
+![LeetCode Stats](https://leetcard.jacoblin.cool/nitinkumartec1)
 
 ---
-
-### 🔹 Video Sharing & Social Platform (MERN)
-- Developed using **MongoDB, Express, React, Node.js**
-- Features: **Upload, Like, Comment, Subscribe**
-- Implemented **JWT Authentication & Bcrypt Security**
-- Integrated **Cloudinary CDN → 30% faster media loading**
-
----
-
-## 🧠 Core Skills
-
-- Data Structures & Algorithms  
-- Object-Oriented Programming (OOP)  
-- DBMS, Operating Systems, Computer Networks  
-- REST API Development & Authentication  
-
----
-
-## 🏆 Experience
-
-- 👨‍🏫 Mentored **500+ students** as Student Mentor  
-- 🎤 Conducted **technical workshops on web development**  
-- 🤝 Improved collaboration using **Git workflows**
-
----
-
-## 📜 Certifications
-
-- React.js – Scaler  
-- Node.js – Simplilearn  
-- Cybersecurity Foundation – Palo Alto  
-
----
-
-## 🚀 Current Focus
-
-- 📚 Advanced **DSA**
-- ⚡ Building **Scalable MERN Applications**
-- 🧠 Learning **System Design**
-- 🎯 Targeting **Product-Based Companies**
 
 ---
 
